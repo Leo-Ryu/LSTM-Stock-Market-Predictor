@@ -1,2 +1,2 @@
 # LSTM-Stock-Market-Predictor
-An LSTM model to predict and visualize future stock market with current data
+An LSTM RNN model to predict and visualize future stock stock price behavior using historical market data.
