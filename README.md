@@ -7,3 +7,5 @@ Implementing this project from scratch was an invaluable learning experience as 
 # Resources 
 Understanding LSTM Networks Article: http://colah.github.io/posts/2015-08-Understanding-LSTMs/ \
 Project Tutorial: https://www.datacamp.com/community/tutorials/lstm-python-stock-market#lstm
+Stock Market Data: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
+
