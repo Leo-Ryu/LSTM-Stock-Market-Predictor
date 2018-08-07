@@ -1,4 +1,4 @@
-# LSTM-Stock-Market-Predictor
+# LSTM-Stock-Price-Predictor
 A Long Short Term Memory RNN model to predict and visualize future stock stock price behavior using historical market data. This model demonstrates that it is possible to accurately predict stock price behavior many steps into the future. 
 
 
